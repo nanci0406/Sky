@@ -1,4 +1,11 @@
 [通知内容开始]{
+"Poison (Hazbin Hotel Original Soundtrack)",
+"暮色回响",
+"场景-白落落村-幽幽",
+"never gonna give you up-知更鸟大招歌曲",
+"我是真的爱上你-王杰",
+"海与你-南小笙&LinT林棠",
+"某年某月某天",
 "信仰的图腾",
 "最后的晚餐",
 "风の指挥者-胜者与败者op",
